@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-11T14:58:02.424Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="bsXO6Zn7BLKEGdZssLQx" version="12.4.8" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-01-11T15:07:26.517Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="deGlXJhlX3BBcYvJS1yw" version="12.4.8" type="github" pages="4">
   <diagram id="jsx7okBiRUJiMhCPxhV5" name="データ要件_非正規形">
     <mxGraphModel dx="872" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2424,7 +2424,7 @@
         <mxCell id="9nnPUe3_ZF4Y_mqE6STU-323" value="" style="shape=partialRectangle;top=0;left=0;bottom=0;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;fontSize=12;" vertex="1" connectable="0" parent="9nnPUe3_ZF4Y_mqE6STU-322">
           <mxGeometry width="30" height="10" as="geometry"/>
         </mxCell>
-        <mxCell id="9nnPUe3_ZF4Y_mqE6STU-324" value="" style="endArrow=ERmany;html=1;endFill=0;startArrow=ERone;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="W5t7xiPyPmhx_EyZzCJJ-1" source="9nnPUe3_ZF4Y_mqE6STU-30" target="9nnPUe3_ZF4Y_mqE6STU-322">
+        <mxCell id="9nnPUe3_ZF4Y_mqE6STU-324" value="" style="endArrow=ERone;html=1;endFill=0;startArrow=ERmany;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="W5t7xiPyPmhx_EyZzCJJ-1" source="9nnPUe3_ZF4Y_mqE6STU-30" target="9nnPUe3_ZF4Y_mqE6STU-322">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240.42000000000007" y="468.3700000000001" as="sourcePoint"/>
             <mxPoint x="320" y="468" as="targetPoint"/>
